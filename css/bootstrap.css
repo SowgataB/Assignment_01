@@ -8825,6 +8825,16 @@ textarea.form-control-lg {
   --bs-link-underline-opacity: 1;
 }
 
+.bg-custom1 {
+  --bs-bg-opacity: 1;
+  background-color:#F5FCFF !important;
+}
+
+.bg-custom2 {
+  --bs-bg-opacity: 1;
+  background-color:#ECFFFD !important;
+}
+
 .bg-primary {
   --bs-bg-opacity: 1;
   background-color: rgba(var(--bs-primary-rgb), var(--bs-bg-opacity)) !important;
